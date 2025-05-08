@@ -76,7 +76,6 @@ img {
   color: #000;
 }
 .links-wrapper ul li a i {
-  font-family: "Font Awesome 5 Free";
   font-weight: 900;
   padding-left: 10px;
   font-size: 17px;
@@ -117,7 +116,6 @@ img {
 /*Fourth Highlight Section */
 .fourth-heghlight-wrapper {
   display: flex;
-  -webkit-box-pack: justify;
   justify-content: space-between;
   background: #fff;
 }
@@ -156,7 +154,6 @@ img {
 /*Fivth Highlight Section */
 .fifth-heghlight-wrapper {
   display: flex;
-  -webkit-box-pack: justify;
   justify-content: space-between;
   background: #fff;
 }
@@ -181,16 +178,14 @@ img {
   text-decoration: none;
   font-size: 0.85em;
 }
-.watch-more-wrapper a:after {
-  font-family: "FontAwesome";
+.watch-more-wrapper a i {
   font-weight: 900;
-  content: "\f144";
-  padding-left: 15px;
+  padding-left: 5px;
+  font-size: 0.85em;
 }
 /*Sixth Highlight Section */
 .sixth-heghlight-wrapper {
   display: flex;
-  -webkit-box-pack: justify;
   justify-content: space-between;
   background: #fff;
 }
